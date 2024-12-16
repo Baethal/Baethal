@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Baethal
+- 👀 I’m interested in Python and Javascript for web development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: Baethal - Discord
+- ⚡ Fun fact: I'm stuck on an island
